@@ -48,6 +48,7 @@ Correction: If there is an error in your login information, you can request corr
 7. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Any changes will be communicated via this page. We encourage you to review this policy periodically to stay informed.
 
-8. Contact Us
-If you have any questions or concerns about this Privacy Policy or how your data is used, please contact us at [Email].</details>
+</details>
 
+# Contact Us
+If you have any questions or concerns about this Privacy Policy or how your data is used, please contact us at [Email].
