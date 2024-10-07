@@ -1,5 +1,5 @@
 
-<details open>
+### <details open>
 <summary>Privacy Policy</summary>
 <br>
   
