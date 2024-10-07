@@ -51,7 +51,7 @@ The app does not store personal information beyond what is necessary for login a
 <br>
 <br>
 11. Your Rights
-While [App Name] does not store or collect data beyond basic login and attendance functions, you still have the following rights:
+While (DU - Attendance) does not store or collect data beyond basic login and attendance functions, you still have the following rights:
 <br>
 <br>
 Access: You can request access to your login and attendance records.
@@ -67,4 +67,4 @@ We may update this Privacy Policy from time to time. Any changes will be communi
 </details>
 
 # Contact Us
-### If you have any questions or concerns about this Privacy Policy or how your data is used, please contact us at [Email].
+### If you have any questions or concerns about this Privacy Policy or how your data is used, please contact us at du-attendance@onmail.com.
