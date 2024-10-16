@@ -7,7 +7,7 @@ Your privacy is important to us, and we are committed to ensuring that your pers
 <br>
 <br>
 1. Data We Use
-(DU - Attendance) uses the following types of data to ensure its functionality:
+(AI - Attendance) uses the following types of data to ensure its functionality:
 <br>
 <br>
 Login Information:
@@ -39,7 +39,7 @@ The UDID is used to ensure that app usage is limited to the authorized device, p
 <br>
 <br>
 5. Data Security
-Although (DU - Attendance) does not collect additional personal data, we take precautions to ensure that your login and attendance data are secure. We implement industry-standard security measures, including encryption, to protect your information.
+Although (AI - Attendance) does not collect additional personal data, we take precautions to ensure that your login and attendance data are secure. We implement industry-standard security measures, including encryption, to protect your information.
 <br>
 <br>
 7. Data Sharing
@@ -51,7 +51,7 @@ The app does not store personal information beyond what is necessary for login a
 <br>
 <br>
 11. Your Rights
-While (DU - Attendance) does not store or collect data beyond basic login and attendance functions, you still have the following rights:
+While (AI - Attendance) does not store or collect data beyond basic login and attendance functions, you still have the following rights:
 <br>
 <br>
 Access: You can request access to your login and attendance records.
@@ -67,4 +67,4 @@ We may update this Privacy Policy from time to time. Any changes will be communi
 </details>
 
 # Contact Us
-### If you have any questions or concerns about this Privacy Policy or how your data is used, please contact us at du-attendance@onmail.com.
+### If you have any questions or concerns about this Privacy Policy or how your data is used, please contact us at aiattendance@onmail.com.
